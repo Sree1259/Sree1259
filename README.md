@@ -43,7 +43,7 @@ Exploratory analysis, insights, and visualization using Python
 <tr>
 <td width="50%">
 <b>❄ Enterprise Snowflake DW & BI</b><br>
-Data warehousing, modeling, and BI dashboards
+Data warehousing using Snowflake schema, modeling, and BI dashboards
 </td>
 <td width="50%">
 <b>🔄 ETL Pipelines</b><br>
