@@ -31,12 +31,12 @@
 <table>
 <tr>
 <td width="50%">
-<b>🍽 Restaurant Data Analysis</b><br>
-Exploratory analysis, insights, and visualization using Python
+<b>☁️ Azure ETL Pipeline</b><br>
+Designed and implemented an end-to-end ETL pipeline using Azure Data Factory (ADF), Databricks, and Synapse Analytics. 
 </td>
 <td width="50%">
-<b>🧠 NLP Projects</b><br>
-Text processing, tokenization, feature extraction, and analysis
+<b>🍽 Restaurant Data Analysis</b><br>
+Exploratory analysis, insights, and visualization using Python
 </td>
 </tr>
 
