@@ -25,33 +25,45 @@
 </ul>
 
 <hr>
-
 <h2>🚀 Featured Projects</h2>
 
 <table>
 <tr>
 <td width="50%">
 <b>☁️ Azure ETL Pipeline</b><br>
-Designed and implemented an end-to-end ETL pipeline using Azure Data Factory (ADF), Databricks, and Synapse Analytics. 
+Designed and implemented an end-to-end ETL pipeline using Azure Data Factory (ADF), Databricks, and Synapse Analytics to ingest, transform, and store data for analytics workloads.
 </td>
+
 <td width="50%">
 <b>🍽 Restaurant Data Analysis</b><br>
-Exploratory analysis, insights, and visualization using Python
+Performed exploratory data analysis and built visualizations using Python to uncover business insights and trends in restaurant data.
 </td>
 </tr>
 
 <tr>
 <td width="50%">
-<b>❄ Enterprise Snowflake DW & BI</b><br>
-Data warehousing using Snowflake schema, modeling, and BI dashboards
+<b>🤖 End-to-End RAG Pipeline using Google Gemini & LangChain</b><br>
+Built an intelligent document chatbot that converts unstructured PDFs into searchable knowledge using Retrieval-Augmented Generation (RAG). Implemented semantic search using FAISS vector database and Google Gemini embeddings with LangChain orchestration.
 </td>
+
 <td width="50%">
-<b>🔄 ETL Pipelines</b><br>
-End-to-end ETL workflows using Python & SQL
+<b>📧 Gemma 3 Email LoRA Adapter</b><br>
+Fine-tuned a LoRA adapter for the Gemma 3 270M language model to transform blunt or casual emails into professional communication using parameter-efficient fine-tuning with PEFT.
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<b>💊 MedReminder – Healthcare Medication Tracking App</b><br>
+Developing a full-stack healthcare application that helps users manage medication schedules, reminders, and adherence tracking. Built with React, Node.js, Prisma ORM, and PostgreSQL with Docker-based development environment.
+</td>
+
+<td width="50%">
+<b>📊 Power BI Exploratory Data Analysis</b><br>
+Built interactive dashboards and performed exploratory data analysis on datasets such as Airbnb and Glassdoor to derive business insights using Power BI.
 </td>
 </tr>
 </table>
-
 <hr>
 
 <h2>🔧 Tech Stack</h2>
