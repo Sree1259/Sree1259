@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Sreelekha Vuppala</h1>
-<h3 align="center">Data Science • Data Engineering • Machine Learning • Generative AI</h3>
+<h3 align="center">Software Engineer • AI Engineer and Architect• Data Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sreelekhavuppala">
